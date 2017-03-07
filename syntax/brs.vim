@@ -62,7 +62,7 @@ syn keyword brsFunction Abs Atn Cos Csng Cdbl Exp Fix Int Log Sgn Sin Sqr Tan
 syn keyword brsFunction ifList ifEnum roList ifMessagePort roInt roFloat roString
 syn keyword brsFunction roBoolean roFunction roInvalid
 syn keyword brsFunction ifInt ifIntOps ifFloat ifString ifStringOps ifFunction ifBoolean
-syn keyword brsFunction orAssociativeArray roArray roXMLElement roXMLList
+syn keyword brsFunction roAssociativeArray roArray roXMLElement roXMLList roByteArray roVideoPlayer roSGNode
 
 syn keyword brsTypes Array Interface
 syn keyword brsTypes Integer Float Double Boolean String Object Dynamic
